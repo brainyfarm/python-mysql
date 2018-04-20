@@ -1,0 +1,13 @@
+Install the two dependencies
+
+requests and pymysql
+
+You can install by running the following from the commandline
+
+pip install pymysql
+pip install requests
+
+
+Now that the modules are installed, Run the app (app.py)
+
+python app.py 
